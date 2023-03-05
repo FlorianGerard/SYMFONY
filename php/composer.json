@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/http-foundation": "^6.1",
+        "symfony/var-dumper": "^6.1"
+    }
+}
